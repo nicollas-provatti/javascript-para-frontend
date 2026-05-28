@@ -1,0 +1,28 @@
+<style>
+  button {
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    background-color: #add8e6;
+    padding: 10px;
+    transition: 0.3s;
+  }
+
+  button:hover {
+    background-color: #a0c8d3;
+  }
+</style>
+
+<button>Clique aqui</button>
+
+<script>
+  const button = document.querySelector("button");
+
+  button.addEventListener("click", () => {
+    alert("Você clicou em mim!");
+  });
+
+  function handleClique() {
+    alert("Você clicou em mim!");
+  }
+</script>
