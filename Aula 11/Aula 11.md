@@ -1,0 +1,1 @@
+Para essa aula fazer o projeto do frontend mento. Os arquivos iniciais estão na pasta interactive-rating-component, para mais informações acesse [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
