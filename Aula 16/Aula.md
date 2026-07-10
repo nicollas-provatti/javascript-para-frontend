@@ -1,4 +1,4 @@
-# 📘 Aula 12 - LocalStorage
+# 📘 Aula 16 - LocalStorage
 
 ### 🔍 O que é o LocalStorage?
 LocalStorage é uma funcionalidade do navegador que permite armazenar dados **localmente** no computador do usuário, em forma de **pares chave-valor**, de maneira **persistente**. Ou seja, os dados continuam salvos mesmo que a página seja recarregada ou o navegador seja fechado e reaberto.
